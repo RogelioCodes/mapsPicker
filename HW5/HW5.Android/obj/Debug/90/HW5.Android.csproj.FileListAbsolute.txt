@@ -24,7 +24,6 @@ C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\C2CFDAD1610748FA.stamp
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\1E12D6AF08071B52.stamp
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\45B28699A221DE59.stamp
-C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\01F6E950B721C361.stamp
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\FA4405DF1CEB339E.stamp
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\BE006A1609EB2EA6.stamp
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\62DD666860EB7D0E.stamp
@@ -38,7 +37,6 @@ C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\C2CFDAD1610748FA.flata
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\1E12D6AF08071B52.flata
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\45B28699A221DE59.flata
-C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\01F6E950B721C361.flata
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\FA4405DF1CEB339E.flata
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\BE006A1609EB2EA6.flata
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\62DD666860EB7D0E.flata
@@ -532,7 +530,6 @@ C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\android\bin\classes.dex
-C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\stamp\SetupDependenciesForDesigner.stamp
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
@@ -542,3 +539,5 @@ C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\72CCDB4D37EB09EE.stamp
+C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\72CCDB4D37EB09EE.flata
