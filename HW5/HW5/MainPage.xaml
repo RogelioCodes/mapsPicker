@@ -7,14 +7,19 @@
              mc:Ignorable="d"
              x:Class="HW5.MainPage">
 
-    <StackLayout>
-        <map:Map MapType="Street" HasZoomEnabled="True" HasScrollEnabled="True">
-            <map:Map.ItemTemplate>
-                <DataTemplate>
-                    <map:Pin Position ="{Binding Position}" Address="{Binding Address}" Label="{Binding PlaceName}" />
-                </DataTemplate>
-            </map:Map.ItemTemplate>
-        </map:Map>
-    </StackLayout>
+    
+    <StackLayout x:Name="segments">
+        <map:Map x:Name="map"  HasZoomEnabled="True" HasScrollEnabled="True" VerticalOptions="FillAndExpand" HeightRequest="100" WidthRequest="900" >
 
+                <map:Map.ItemTemplate>
+
+                    <DataTemplate>
+
+                        <map:Pin Position ="{Binding Position}" Address="{Binding Address}" Label="{Binding PlaceName}"  />
+                    </DataTemplate>
+                </map:Map.ItemTemplate>
+            </map:Map>
+       
+    </StackLayout>
+ 
 </ContentPage>

@@ -541,3 +541,4 @@ C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\72CCDB4D37EB09EE.stamp
 C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\flata\72CCDB4D37EB09EE.flata
+C:\Users\Rogelio\source\repos\CS481_HW5_RogelioCordova\HW5\HW5.Android\obj\Debug\90\stamp\SetupDependenciesForDesigner.stamp
